@@ -1,0 +1,6 @@
+{
+  "name": "Health Tracker",
+  "description": "A comprehensive local health and fitness tracker to log daily steps, water intake, sleep duration, calories, and heart rate with daily targets and progress visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
